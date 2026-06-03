@@ -1,0 +1,23 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "alexsmobsdelightlegacy:blocks/lily_pad",
+		"particle": "alexsmobsdelightlegacy:blocks/lily_pad"
+	},
+	"elements": [
+		{
+			"from": [2, 0.01, 1],
+			"to": [15, 0.01, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [16, 2, 0, 2], "texture": "#0"},
+				"east": {"uv": [16, 2, 0, 2], "texture": "#0"},
+				"south": {"uv": [16, 2, 0, 2], "texture": "#0"},
+				"west": {"uv": [16, 2, 0, 2], "texture": "#0"},
+				"up": {"uv": [2, 15, 15, 1], "texture": "#0"},
+				"down": {"uv": [2, 1, 15, 15], "texture": "#0"}
+			}
+		}
+	]
+}

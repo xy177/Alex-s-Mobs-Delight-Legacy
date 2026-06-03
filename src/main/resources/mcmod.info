@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "alexsmobsdelightlegacy",
+    "name": "Alex's Mobs Delight Legacy",
+    "description": "Alex's Mobs Delight Legacy is a Minecraft 1.12.2 addon for Farmer's Delight Legacy and Alex's Mobs (Legacy). Cook up dishes inspired by Alex's Mobs creatures, set out hearty feasts, grow mob-themed crops, and discover creature-made tools, weapons, food effects, and JEI-supported special acquisition routes. This mod is a legacy port and adaptation of the modern Alex's Mobs Delight project.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/xy177/Alex-s-Mobs-Delight-Legacy",
+    "updateUrl": "",
+    "authorList": ["xy177"],
+    "credits": "Legacy port of Alex's Mobs Delight. Original project: https://github.com/rawchickenNEG/AlexsMobsDelight",
+    "logoFile": "icon.png",
+    "screenshots": [],
+    "dependencies": [
+      "required-after:farmersdelight",
+      "required-after:alexsmobs",
+      "required-after:citadel"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east,servings=0": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_3", "y": 90 },
+    "facing=east,servings=1": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_2", "y": 90 },
+    "facing=east,servings=2": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_1", "y": 90 },
+    "facing=east,servings=3": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_0", "y": 90 },
+    "facing=north,servings=0": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_3" },
+    "facing=north,servings=1": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_2" },
+    "facing=north,servings=2": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_1" },
+    "facing=north,servings=3": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_0" },
+    "facing=south,servings=0": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_3", "y": 180 },
+    "facing=south,servings=1": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_2", "y": 180 },
+    "facing=south,servings=2": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_1", "y": 180 },
+    "facing=south,servings=3": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_0", "y": 180 },
+    "facing=west,servings=0": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_3", "y": 270 },
+    "facing=west,servings=1": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_2", "y": 270 },
+    "facing=west,servings=2": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_1", "y": 270 },
+    "facing=west,servings=3": { "model": "alexsmobsdelightlegacy:moose_sausage_with_salmon_block_0", "y": 270 }
+  }
+}

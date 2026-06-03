@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelightlegacy:items/banana_slug_slime_custard"
+  }
+}

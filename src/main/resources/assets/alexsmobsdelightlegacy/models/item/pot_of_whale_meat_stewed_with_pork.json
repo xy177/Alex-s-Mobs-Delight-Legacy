@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelightlegacy:items/pot_of_whale_meat_stewed_with_pork"
+  }
+}

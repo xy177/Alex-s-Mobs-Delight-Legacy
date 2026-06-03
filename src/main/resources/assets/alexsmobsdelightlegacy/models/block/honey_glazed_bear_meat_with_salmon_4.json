@@ -1,0 +1,24 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "alexsmobsdelightlegacy:blocks/tray_bottom",
+		"particle": "alexsmobsdelightlegacy:blocks/bear_meat_block_2",
+		"tray_top": "alexsmobsdelightlegacy:blocks/honey_bear_meat_tray_top"
+	},
+	"elements": [
+		{
+			"name": "tray",
+			"from": [1, 0, 1],
+			"to": [15, 2, 15],
+			"faces": {
+				"north": {"uv": [1, 11, 15, 13], "texture": "#5"},
+				"east": {"uv": [1, 11, 15, 13], "texture": "#5"},
+				"south": {"uv": [1, 11, 15, 13], "texture": "#5"},
+				"west": {"uv": [1, 11, 15, 13], "texture": "#5"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#tray_top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#5"}
+			}
+		}
+	]
+}

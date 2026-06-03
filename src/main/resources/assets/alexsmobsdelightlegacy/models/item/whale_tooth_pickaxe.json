@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "alexsmobsdelightlegacy:items/whale_tooth_pickaxe"
+  }
+}

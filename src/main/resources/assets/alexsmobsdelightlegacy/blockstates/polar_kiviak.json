@@ -1,0 +1,244 @@
+{
+    "variants":  {
+                     "composting=0,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=0,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=0,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=0,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=1,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=1,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=1,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=1,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=2,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=2,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=2,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=2,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=3,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=3,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=3,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=3,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=4,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=4,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=4,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=4,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=5,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=5,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=5,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=5,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=6,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  270
+                                                                },
+                     "composting=6,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                   "y":  180
+                                                               },
+                     "composting=6,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0"
+                                                               },
+                     "composting=6,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_0",
+                                                                    "y":  90
+                                                                },
+                     "composting=7,facing=north,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_1",
+                                                                    "y":  270
+                                                                },
+                     "composting=7,facing=west,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_1",
+                                                                   "y":  180
+                                                               },
+                     "composting=7,facing=east,opened=false":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_1"
+                                                               },
+                     "composting=7,facing=south,opened=false":  {
+                                                                    "model":  "alexsmobsdelightlegacy:polar_kiviak_block_1",
+                                                                    "y":  90
+                                                                },
+                     "composting=7,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=7,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=7,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=7,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=0,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=0,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=0,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=0,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=1,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=1,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=1,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=1,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=2,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=2,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=2,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=2,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=3,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=3,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=3,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=3,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=4,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=4,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=4,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=4,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=5,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=5,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=5,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=5,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               },
+                     "composting=6,facing=north,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  270
+                                                               },
+                     "composting=6,facing=west,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                  "y":  180
+                                                              },
+                     "composting=6,facing=east,opened=true":  {
+                                                                  "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2"
+                                                              },
+                     "composting=6,facing=south,opened=true":  {
+                                                                   "model":  "alexsmobsdelightlegacy:polar_kiviak_block_2",
+                                                                   "y":  90
+                                                               }
+                 }
+}

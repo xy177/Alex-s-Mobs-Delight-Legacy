@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "color=white": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=orange": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=magenta": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=light_blue": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=yellow": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=lime": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=pink": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=gray": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=silver": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=cyan": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=purple": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=blue": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=brown": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=green": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=red": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" },
+    "color=black": { "model": "alexsmobsdelightlegacy:seal_fur_carpet_gray" }
+  }
+}

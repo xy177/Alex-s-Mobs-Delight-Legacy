@@ -1,0 +1,6 @@
+{
+  "parent": "block/carpet",
+  "textures": {
+    "wool": "alexsmobsdelightlegacy:blocks/seal_fur_carpet_brown_top"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    "ore:listAllmilk",
+    "ore:listAllmilk",
+    "ore:listAllmilk",
+    "minecraft:brown_mushroom"
+  ],
+  "cookingtime": 800,
+  "experience": 3.0,
+  "result": {
+    "item": "alexsmobsdelightlegacy:cheese",
+    "count": 2
+  },
+  "container": {
+    "item": "minecraft:air",
+    "count": 1
+  }
+}

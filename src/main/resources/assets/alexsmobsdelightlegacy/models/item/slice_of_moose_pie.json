@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelightlegacy:items/slice_of_moose_pie"
+  }
+}

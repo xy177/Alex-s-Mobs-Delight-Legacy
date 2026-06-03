@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "alexsmobsdelightlegacy:items/fried_tusklin_meat"
+  }
+}

@@ -1,0 +1,814 @@
+{
+    "variants":  {
+                     "facing=east,part=front,servings=0":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_17"
+                                                           },
+                     "facing=east,part=middle,servings=0":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_17"
+                                                            },
+                     "facing=east,part=back,servings=0":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_17"
+                                                          },
+                     "facing=east,part=front,servings=1":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_16"
+                                                           },
+                     "facing=east,part=middle,servings=1":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_16"
+                                                            },
+                     "facing=east,part=back,servings=1":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_16"
+                                                          },
+                     "facing=east,part=front,servings=2":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_15"
+                                                           },
+                     "facing=east,part=middle,servings=2":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_15"
+                                                            },
+                     "facing=east,part=back,servings=2":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_15"
+                                                          },
+                     "facing=east,part=front,servings=3":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_14"
+                                                           },
+                     "facing=east,part=middle,servings=3":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_14"
+                                                            },
+                     "facing=east,part=back,servings=3":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_14"
+                                                          },
+                     "facing=east,part=front,servings=4":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_13"
+                                                           },
+                     "facing=east,part=middle,servings=4":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_13"
+                                                            },
+                     "facing=east,part=back,servings=4":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_13"
+                                                          },
+                     "facing=east,part=front,servings=5":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_12"
+                                                           },
+                     "facing=east,part=middle,servings=5":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_12"
+                                                            },
+                     "facing=east,part=back,servings=5":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_12"
+                                                          },
+                     "facing=east,part=front,servings=6":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_11"
+                                                           },
+                     "facing=east,part=middle,servings=6":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_11"
+                                                            },
+                     "facing=east,part=back,servings=6":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_11"
+                                                          },
+                     "facing=east,part=front,servings=7":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_10"
+                                                           },
+                     "facing=east,part=middle,servings=7":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_10"
+                                                            },
+                     "facing=east,part=back,servings=7":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_10"
+                                                          },
+                     "facing=east,part=front,servings=8":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_9"
+                                                           },
+                     "facing=east,part=middle,servings=8":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_9"
+                                                            },
+                     "facing=east,part=back,servings=8":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_9"
+                                                          },
+                     "facing=east,part=front,servings=9":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_8"
+                                                           },
+                     "facing=east,part=middle,servings=9":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_8"
+                                                            },
+                     "facing=east,part=back,servings=9":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_8"
+                                                          },
+                     "facing=east,part=front,servings=10":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_7"
+                                                            },
+                     "facing=east,part=middle,servings=10":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_7"
+                                                             },
+                     "facing=east,part=back,servings=10":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_7"
+                                                           },
+                     "facing=east,part=front,servings=11":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_6"
+                                                            },
+                     "facing=east,part=middle,servings=11":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_6"
+                                                             },
+                     "facing=east,part=back,servings=11":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_6"
+                                                           },
+                     "facing=east,part=front,servings=12":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_5"
+                                                            },
+                     "facing=east,part=middle,servings=12":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_5"
+                                                             },
+                     "facing=east,part=back,servings=12":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_5"
+                                                           },
+                     "facing=east,part=front,servings=13":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_4"
+                                                            },
+                     "facing=east,part=middle,servings=13":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_4"
+                                                             },
+                     "facing=east,part=back,servings=13":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_4"
+                                                           },
+                     "facing=east,part=front,servings=14":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_3"
+                                                            },
+                     "facing=east,part=middle,servings=14":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_3"
+                                                             },
+                     "facing=east,part=back,servings=14":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_3"
+                                                           },
+                     "facing=east,part=front,servings=15":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_2"
+                                                            },
+                     "facing=east,part=middle,servings=15":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_2"
+                                                             },
+                     "facing=east,part=back,servings=15":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_2"
+                                                           },
+                     "facing=east,part=front,servings=16":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_1"
+                                                            },
+                     "facing=east,part=middle,servings=16":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_1"
+                                                             },
+                     "facing=east,part=back,servings=16":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_1"
+                                                           },
+                     "facing=east,part=front,servings=17":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_0"
+                                                            },
+                     "facing=east,part=middle,servings=17":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_0"
+                                                             },
+                     "facing=east,part=back,servings=17":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_0"
+                                                           },
+                     "facing=south,part=front,servings=0":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_17",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=0":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_17",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=0":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_17",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=1":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_16",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=1":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_16",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=1":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_16",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=2":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_15",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=2":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_15",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=2":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_15",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=3":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_14",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=3":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_14",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=3":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_14",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=4":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_13",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=4":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_13",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=4":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_13",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=5":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_12",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=5":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_12",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=5":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_12",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=6":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_11",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=6":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_11",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=6":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_11",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=7":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_10",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=7":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_10",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=7":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_10",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=8":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_9",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=8":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_9",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=8":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_9",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=9":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_8",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=middle,servings=9":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_8",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=back,servings=9":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_8",
+                                                               "y":  90
+                                                           },
+                     "facing=south,part=front,servings=10":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_7",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=10":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_7",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=10":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_7",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=11":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_6",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=11":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_6",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=11":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_6",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=12":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_5",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=12":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_5",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=12":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_5",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=13":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_4",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=13":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_4",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=13":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_4",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=14":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_3",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=14":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_3",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=14":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_3",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=15":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_2",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=15":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_2",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=15":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_2",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=16":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_1",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=16":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_1",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=16":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_1",
+                                                                "y":  90
+                                                            },
+                     "facing=south,part=front,servings=17":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_0",
+                                                                 "y":  90
+                                                             },
+                     "facing=south,part=middle,servings=17":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_0",
+                                                                  "y":  90
+                                                              },
+                     "facing=south,part=back,servings=17":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_0",
+                                                                "y":  90
+                                                            },
+                     "facing=west,part=front,servings=0":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_17",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=0":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_17",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=0":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_17",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=1":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_16",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=1":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_16",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=1":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_16",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=2":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_15",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=2":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_15",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=2":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_15",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=3":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_14",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=3":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_14",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=3":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_14",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=4":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_13",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=4":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_13",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=4":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_13",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=5":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_12",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=5":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_12",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=5":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_12",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=6":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_11",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=6":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_11",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=6":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_11",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=7":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_10",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=7":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_10",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=7":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_10",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=8":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_9",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=8":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_9",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=8":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_9",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=9":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_8",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=middle,servings=9":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_8",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=back,servings=9":  {
+                                                              "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_8",
+                                                              "y":  180
+                                                          },
+                     "facing=west,part=front,servings=10":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_7",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=10":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_7",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=10":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_7",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=11":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_6",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=11":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_6",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=11":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_6",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=12":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_5",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=12":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_5",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=12":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_5",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=13":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_4",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=13":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_4",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=13":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_4",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=14":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_3",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=14":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_3",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=14":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_3",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=15":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_2",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=15":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_2",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=15":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_2",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=16":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_1",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=16":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_1",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=16":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_1",
+                                                               "y":  180
+                                                           },
+                     "facing=west,part=front,servings=17":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_0",
+                                                                "y":  180
+                                                            },
+                     "facing=west,part=middle,servings=17":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_0",
+                                                                 "y":  180
+                                                             },
+                     "facing=west,part=back,servings=17":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_0",
+                                                               "y":  180
+                                                           },
+                     "facing=north,part=front,servings=0":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_17",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=0":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_17",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=0":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_17",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=1":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_16",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=1":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_16",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=1":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_16",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=2":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_15",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=2":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_15",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=2":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_15",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=3":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_14",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=3":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_14",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=3":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_14",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=4":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_13",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=4":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_13",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=4":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_13",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=5":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_12",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=5":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_12",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=5":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_12",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=6":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_11",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=6":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_11",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=6":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_11",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=7":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_10",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=7":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_10",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=7":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_10",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=8":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_9",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=8":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_9",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=8":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_9",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=9":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_8",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=middle,servings=9":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_8",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=back,servings=9":  {
+                                                               "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_8",
+                                                               "y":  270
+                                                           },
+                     "facing=north,part=front,servings=10":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_7",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=10":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_7",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=10":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_7",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=11":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_6",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=11":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_6",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=11":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_6",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=12":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_5",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=12":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_5",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=12":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_5",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=13":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_4",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=13":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_4",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=13":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_4",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=14":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_3",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=14":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_3",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=14":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_3",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=15":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_2",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=15":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_2",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=15":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_2",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=16":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_1",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=16":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_1",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=16":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_1",
+                                                                "y":  270
+                                                            },
+                     "facing=north,part=front,servings=17":  {
+                                                                 "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_front_0",
+                                                                 "y":  270
+                                                             },
+                     "facing=north,part=middle,servings=17":  {
+                                                                  "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_middle_0",
+                                                                  "y":  270
+                                                              },
+                     "facing=north,part=back,servings=17":  {
+                                                                "model":  "alexsmobsdelightlegacy:steamed_stuffed_crocodile/steamed_stuffed_crocodile_block_back_0",
+                                                                "y":  270
+                                                            }
+                 }
+}
