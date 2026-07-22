@@ -40,7 +40,7 @@ import xy177.alexsmobsdelightlegacy.common.tile.TileEntitySteamedStuffedCrocodil
 public class AlexsMobsDelightLegacy {
     public static final String MODID = "alexsmobsdelightlegacy";
     public static final String NAME = "Alex's Mobs Delight Legacy";
-    public static final String VERSION = "1.0.0";
+    public static final String VERSION = "1.0.1";
     public static final CreativeTabs CREATIVE_TAB = AMDCreativeTab.INSTANCE;
 
     @Mod.Instance(MODID)

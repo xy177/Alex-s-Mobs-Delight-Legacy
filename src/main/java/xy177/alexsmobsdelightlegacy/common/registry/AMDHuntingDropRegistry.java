@@ -4,7 +4,7 @@ import com.google.common.collect.ImmutableList;
 import com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp;
 import com.wdcftgg.farmersdelightlegacy.api.recipe.knife.HuntingDropOutput;
 import com.wdcftgg.farmersdelightlegacy.api.recipe.knife.HuntingDropRecipeApi;
-import com.wdcftgg.farmersdelightlegacy.common.recipe.HuntingDropRecipeManager;
+import com.wdcftgg.farmersdelightlegacy.common.recipe.manager.HuntingDropRecipeManager;
 import java.util.Collections;
 import java.util.List;
 import net.minecraft.entity.EntityLivingBase;
