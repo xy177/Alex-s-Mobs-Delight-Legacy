@@ -14,6 +14,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
+import net.minecraftforge.fml.common.eventhandler.EventPriority;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.SidedProxy;
 import xy177.alexsmobsdelightlegacy.common.CommonProxy;
@@ -40,7 +41,7 @@ import xy177.alexsmobsdelightlegacy.common.tile.TileEntitySteamedStuffedCrocodil
 public class AlexsMobsDelightLegacy {
     public static final String MODID = "alexsmobsdelightlegacy";
     public static final String NAME = "Alex's Mobs Delight Legacy";
-    public static final String VERSION = "1.0.1";
+    public static final String VERSION = "1.0.2";
     public static final CreativeTabs CREATIVE_TAB = AMDCreativeTab.INSTANCE;
 
     @Mod.Instance(MODID)
@@ -93,6 +94,11 @@ public class AlexsMobsDelightLegacy {
     public static void registerItems(RegistryEvent.Register<Item> event) {
         AMDItems.register(event.getRegistry());
         AMDBlocks.registerItemBlocks(event.getRegistry());
+    }
+
+    @SubscribeEvent(priority = EventPriority.LOWEST)
+    public static void registerOreDictionary(RegistryEvent.Register<Item> event) {
+        AMDItems.registerOreDictionary();
     }
 
     @SubscribeEvent

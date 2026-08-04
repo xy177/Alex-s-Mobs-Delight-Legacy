@@ -160,7 +160,7 @@ public final class AMDRecipeRegistry {
         );
         registerCookingPot(
             id("devils_hole_pupfish_stew"),
-            new String[] { id("raw_devils_hole_pupfish"), "minecraft:mossy_cobblestone", "ore:cropOnion" },
+            new String[] { id("raw_devils_hole_pupfish"), mossBlockToken(), "ore:cropOnion" },
             new ItemStack(AMDItems.DEVILS_HOLE_PUPFISH_STEW),
             new ItemStack(Items.BOWL),
             200,
@@ -298,7 +298,7 @@ public final class AMDRecipeRegistry {
         );
         registerCookingPot(
             id("canned_bear_meat"),
-            new String[] { id("raw_bear_meat"), id("raw_bear_meat"), sweetBerriesToken(), "ore:cropOnion", "alexsmobs:fish_oil", honeyBottleToken() },
+            new String[] { id("raw_bear_meat"), id("raw_bear_meat"), glowBerriesToken(), "ore:cropOnion", "alexsmobs:fish_oil", honeyBottleToken() },
             new ItemStack(AMDItems.CANNED_BEAR_MEAT),
             new ItemStack(Items.BUCKET),
             800,
@@ -404,19 +404,51 @@ public final class AMDRecipeRegistry {
     }
 
     private static String driedKelpToken() {
-        return registeredItemToken("oe", "dried_kelp", registeredItemToken("oe", "kelp", "minecraft:tallgrass@1"));
+        return firstRegisteredItemToken(
+            "minecraft:tallgrass@1",
+            "oe:dried_kelp",
+            "oe:kelp",
+            "farmers_future_delight:dried_kelp",
+            "farmers_future_delight:kelp"
+        );
     }
 
     private static String sweetBerriesToken() {
-        return registeredItemToken("futuremc", "sweet_berries", "minecraft:apple");
+        return firstRegisteredItemToken(
+            "minecraft:apple",
+            "futuremc:sweet_berries",
+            "farmers_future_delight:sweet_berries"
+        );
+    }
+
+    private static String glowBerriesToken() {
+        return firstRegisteredItemToken(
+            sweetBerriesToken(),
+            "farmers_future_delight:glow_berries"
+        );
     }
 
     private static String honeyBottleToken() {
-        return registeredItemToken("futuremc", "honey_bottle", "minecraft:sugar");
+        return firstRegisteredItemToken(
+            "minecraft:sugar",
+            "futuremc:honey_bottle",
+            "farmers_future_delight:honey_bottle"
+        );
     }
 
     private static String seaPickleOrBeetrootToken() {
-        return registeredItemToken("oe", "sea_pickle", "ore:cropBeetroot");
+        return firstRegisteredItemToken(
+            "ore:cropBeetroot",
+            "oe:sea_pickle",
+            "farmers_future_delight:sea_pickle"
+        );
+    }
+
+    private static String mossBlockToken() {
+        return firstRegisteredItemToken(
+            "minecraft:mossy_cobblestone",
+            "farmers_future_delight:moss_block"
+        );
     }
 
     private static String frontierSoupBaseToken() {
@@ -428,15 +460,30 @@ public final class AMDRecipeRegistry {
     }
 
     private static String warpedWartBlockToken() {
-        return registeredItemToken("netherized", "warped_wart_block", registeredItemToken("nb", "warped_wart", "minecraft:nether_wart_block"));
+        return firstRegisteredItemToken(
+            "minecraft:nether_wart_block",
+            "netherized:warped_wart_block",
+            "nb:warped_wart",
+            "farmers_future_delight:warped_wart_block"
+        );
     }
 
     private static String twistingVinesToken() {
-        return registeredItemToken("netherized", "twisting_vines", registeredItemToken("nb", "warped_vine", "minecraft:vine"));
+        return firstRegisteredItemToken(
+            "minecraft:vine",
+            "netherized:twisting_vines",
+            "nb:warped_vine",
+            "farmers_future_delight:twisting_vines"
+        );
     }
 
     private static String warpedRootsToken() {
-        return registeredItemToken("netherized", "warped_roots", registeredItemToken("nb", "warped_roots", "minecraft:red_mushroom"));
+        return firstRegisteredItemToken(
+            "minecraft:red_mushroom",
+            "netherized:warped_roots",
+            "nb:warped_roots",
+            "farmers_future_delight:warped_roots"
+        );
     }
 
     private static String saladToken() {
@@ -452,6 +499,16 @@ public final class AMDRecipeRegistry {
         ResourceLocation location = new ResourceLocation(modid, path);
         if (ForgeRegistries.ITEMS.containsKey(location)) {
             return location.toString();
+        }
+        return fallback;
+    }
+
+    private static String firstRegisteredItemToken(String fallback, String... itemIds) {
+        for (String itemId : itemIds) {
+            ResourceLocation location = new ResourceLocation(itemId);
+            if (ForgeRegistries.ITEMS.containsKey(location)) {
+                return location.toString();
+            }
         }
         return fallback;
     }

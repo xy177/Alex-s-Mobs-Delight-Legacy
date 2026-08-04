@@ -25,6 +25,7 @@ Cook up dishes inspired by the creatures of Alex's Mobs (Legacy), turn unusual d
 
 - `JEI` - Recommended for recipe lookup, hunting-drop displays, and special acquisition hints.
 - `Future-MC` - Used where available for modern-style ingredients such as sweet berries, honey bottles, and suspicious stew.
+- `Farmer's Future Delight` - Used where available as another source for modern ingredients such as berries, honey, kelp, seagrass, sea pickles, moss, and warped plants.
 - `OceanicExpanse` - Used where available for ocean ingredients such as kelp, seagrass, and sea pickles.
 - `Cherry_on` - Used where available for archaeology-related acquisition behavior and compatible containers.
 - `Netherized` / `Unseens Nether Backport` - Used where available for modern Nether ingredients in compatible recipes.

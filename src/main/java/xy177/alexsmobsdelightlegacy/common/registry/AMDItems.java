@@ -352,7 +352,6 @@ public final class AMDItems {
         LOBSTER_DART = register("lobster_dart", new ItemLobsterDart());
 
         registry.registerAll(ITEMS.toArray(new Item[0]));
-        registerOreDictionary();
     }
 
     public static void registerModels() {
@@ -399,7 +398,7 @@ public final class AMDItems {
         return new ResourceLocation(modid, path);
     }
 
-    private static void registerOreDictionary() {
+    public static void registerOreDictionary() {
         OreDictionary.registerOre("listAllmeatraw", RAW_BEAR_MEAT);
         OreDictionary.registerOre("listAllmeatraw", RAW_BISON_MEAT);
         OreDictionary.registerOre("listAllmeatraw", RAW_TUSKLIN_MEAT);
@@ -416,9 +415,13 @@ public final class AMDItems {
         registerExternalOre("cropCabbage", "farmersdelight:cabbage_leaf");
         registerExternalOre("amdMushroomColony", "farmersdelight:brown_mushroom_colony");
         registerExternalOre("amdMushroomColony", "farmersdelight:red_mushroom_colony");
-        registerOptionalOre("amdSeagrass", "oe:seagrass", new ItemStack(net.minecraft.init.Blocks.TALLGRASS, 1, 1));
-        registerOptionalOre("amdKelp", "oe:kelp", new ItemStack(net.minecraft.init.Blocks.TALLGRASS, 1, 1));
-        registerOptionalOre("amdDriedKelp", "oe:dried_kelp", OreDictionary.getOres("amdKelp").isEmpty() ? ItemStack.EMPTY : OreDictionary.getOres("amdKelp").get(0).copy());
+        registerOptionalOre("amdSeagrass", new ItemStack(net.minecraft.init.Blocks.TALLGRASS, 1, 1),
+            "oe:seagrass", "farmers_future_delight:seagrass");
+        registerOptionalOre("amdKelp", new ItemStack(net.minecraft.init.Blocks.TALLGRASS, 1, 1),
+            "oe:kelp", "farmers_future_delight:kelp");
+        registerOptionalOre("amdDriedKelp",
+            OreDictionary.getOres("amdKelp").isEmpty() ? ItemStack.EMPTY : OreDictionary.getOres("amdKelp").get(0).copy(),
+            "oe:dried_kelp");
         OreDictionary.registerOre("amdFern", new ItemStack(net.minecraft.init.Blocks.TALLGRASS, 1, 2));
         registerExternalOre("amdRawCatfishForStew", "alexsmobs:raw_catfish");
         OreDictionary.registerOre("amdRawCatfishForStew", RAW_CATFISH_SLICE);
@@ -435,11 +438,15 @@ public final class AMDItems {
         }
     }
 
-    private static void registerOptionalOre(String oreName, String preferredId, ItemStack fallback) {
-        ItemStack preferred = externalStack(preferredId);
-        if (!preferred.isEmpty()) {
-            OreDictionary.registerOre(oreName, preferred);
-        } else if (!fallback.isEmpty()) {
+    private static void registerOptionalOre(String oreName, ItemStack fallback, String... preferredIds) {
+        for (String preferredId : preferredIds) {
+            ItemStack preferred = externalStack(preferredId);
+            if (!preferred.isEmpty()) {
+                OreDictionary.registerOre(oreName, preferred);
+                return;
+            }
+        }
+        if (!fallback.isEmpty()) {
             OreDictionary.registerOre(oreName, fallback);
         }
     }
